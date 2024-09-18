@@ -1,0 +1,5 @@
+@media (max-width:375px) {
+  #loigin #resImage {
+    display: none;
+  }
+}
